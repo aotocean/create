@@ -1,0 +1,102 @@
+.pic1{
+    width: 236px;
+    height: 70px;
+}
+
+.list1{
+    list-style: none;
+    float: left;
+    padding-right: 50px;
+    color: white;
+}
+
+.ul1{
+    padding-left: 45px;
+    line-height: 30px;
+}
+
+header{
+    background-color: black;
+    width: 100%;
+    height: 30px;
+}
+
+.box1{
+    float: left;
+    width: 70%;
+}
+
+.box2{
+    float: right;
+    width: 25%;
+}
+
+.midasi1{
+    font-family: "HiraKakuPro-W6";
+    font-size: 1.5em;
+    border-left: 4px solid black;
+    border-bottom: 0.5px solid black;
+    margin-top: 20px;
+}
+
+.midasi2,.midasi3,.midasi4{
+    font-family: "HiraKakuPro-W6";
+    font-size: large;
+    border-bottom:0.5px dotted black;
+    line-height: 36px;
+}
+
+.sentence1{
+    padding-left: 15px;
+    line-height: 40px;
+}
+
+.jpg1{
+    width: 100%;
+}
+
+.sentence2,.sentence3{
+    line-height: 40px;
+}
+
+.box3{
+    width: 100%;
+    text-align: center;
+    background-color: lightgray;
+    margin-bottom: 20px;
+}
+
+.box3 img{
+    width: 200px;
+    margin: 20px 10px -10px 10px;
+}
+
+.box3 .boximg2{
+    display: inline-block;
+}
+
+.sentence4,.sentence5,.sentence6{
+    list-style-type: none;
+    margin-left: -20px;
+}
+
+.sentence4 li{
+    padding-bottom: 5px;
+}
+
+.sentence5 li{
+    padding-bottom: 5px;
+}
+
+.sentence6 li{
+    padding-bottom: 5px;
+}
+
+footer{
+    clear: left;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    color: white;
+    line-height: 30px;
+}
