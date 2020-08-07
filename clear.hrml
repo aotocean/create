@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sorry</title>
+    <link rel="stylesheet" href="clear.css">
+</head>
+<body>
+    <header>
+        <ul class="ul1">
+            <a href="aoto.goto.index.html"><li class="list1">トップ</li></a>
+            <a href="clear.html"><li class="list1">プロフィール</li></a>
+            <a href="clear.html"><li class="list1">について</li></a>
+            <a href="clear.html"><li class="list1">問い合わせ</li></a>
+            <a href="clear.html"><li class="list1">その他</li></a>
+        </ul>
+    </header>
+    <div class="box">
+        <h1 class="clear">空ページです</h1>
+        <a href="aoto.goto.index.html">元のページに戻る</a>
+    </div>
+    <footer>
+        copylight  aoto.goto
+    </footer>
+</body>
+</html>
