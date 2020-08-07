@@ -20,6 +20,9 @@ header{
     margin-top: 20px;
     color: red;
 }
+.box{
+    text-align: center;
+}
 
 a{
     padding-bottom: 10px;
