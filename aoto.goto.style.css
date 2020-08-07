@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
 .pic1{
     width: 236px;
     height: 70px;
