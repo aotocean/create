@@ -1,0 +1,41 @@
+.list1{
+    list-style: none;
+    float: left;
+    padding-right: 50px;
+    color: white;
+}
+
+.ul1{
+    padding-left: 45px;
+    line-height: 30px;
+}
+header{
+    background-color: black;
+    width: 100%;
+    height: 30px;
+}
+.clear{
+    font-family: "HiraKakuPro-W6";
+    font-size: 1.5em;
+    margin-top: 20px;
+    color: red;
+}
+
+.box{
+    width: 100%;
+    text-align: center;
+}
+
+a{
+    padding-bottom: 10px;
+}
+
+footer{
+    clear: left;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    color: white;
+    line-height: 30px;
+    margin-top: 20px;
+}
