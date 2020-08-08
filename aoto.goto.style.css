@@ -39,14 +39,14 @@ header{
     font-family: "HiraKakuPro-W6";
     font-size: 1.5em;
     border-left: 4px solid black;
-    border-bottom: 0.5px solid black;
+    border-bottom: 1.5px solid black;
     margin-top: 20px;
 }
 
 .midasi2,.midasi3,.midasi4{
     font-family: "HiraKakuPro-W6";
     font-size: large;
-    border-bottom:0.5px dotted black;
+    border-bottom:1.5px dotted black;
     line-height: 36px;
 }
 
