@@ -3,7 +3,6 @@ body{
 }
 
 .list1{
-    max-width: 100%;
     list-style: none;
     float: left;
     padding-right: 50px;
@@ -11,6 +10,7 @@ body{
 }
 
 .ul1{
+    max-width: 100%;
     padding-left: 45px;
     line-height: 30px;
 }
